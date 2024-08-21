@@ -24,13 +24,6 @@ Journal.
 
 To read: https://hastie.su.domains/ElemStatLearn/datasets/SAheart.data
 
-Lastly, we have investigated patient readings _grouping_ and _anomaly detection_ using Unsupervised Learning methods of __density estimation__ and __clustering__, together with finding frequently-occurring disease-confident patterns from patients' data using __association mining__:
-
-* **_[Project 3: Heart Disease - Unsupervised Machine Learning](https://github.com/seby-sbirna/DTU-Introduction-to-Machine-Learning-and-Data-Mining-Capstone-Project/tree/master/Project%203%20-%20UCL%20Heart%20Disease%20-%20Unsupervised%20Machine%20Learning)_**
----
-
-
-
 
 Determining presence of any kind of diseases is a skill which has always been needed by society and, up until recently, could only be performed meticulously by doctors with extensive training and experience. 
 
@@ -45,5 +38,12 @@ Firstly, we have analysed our dataset using various _**data visualization and fe
 Afterwards, we have performed and evaluated the performance and characteristics of various types of Supervised Learning models upon the Heart Disease data, using __Neural Networks__, __Decision Trees__, __Logistic Regressions__ and baselines for model comparison:
 
 * **_[Project 2: Heart Disease - Supervised Machine Learning](https://github.com/seby-sbirna/DTU-Introduction-to-Machine-Learning-and-Data-Mining-Capstone-Project/tree/master/Project%202%20-%20UCL%20Heart%20Disease%20-%20Supervised%20Machine%20Learning)_**
+
+Lastly, we have investigated patient readings _grouping_ and _anomaly detection_ using Unsupervised Learning methods of __density estimation__ and __clustering__, together with finding frequently-occurring disease-confident patterns from patients' data using __association mining__:
+
+* **_[Project 3: Heart Disease - Unsupervised Machine Learning](https://github.com/seby-sbirna/DTU-Introduction-to-Machine-Learning-and-Data-Mining-Capstone-Project/tree/master/Project%203%20-%20UCL%20Heart%20Disease%20-%20Unsupervised%20Machine%20Learning)_**
+---
+
+
 
 

@@ -9,21 +9,20 @@ factors after their CHD event. In some cases the measurements were
 made after these treatments. These data are taken from a larger
 dataset, described in  Rousseauw et al, 1983, South African Medical
 Journal. 
+<ul>
+  <li><b> sbp: </b> systolic blood pressure 
+  <li><b> tobacco: </b> cumulative tobacco (kg)
+  <li><b> ldl: </b> low density lipoprotein cholesterol
+  <li><b>adiposity</b> 
+  <li><b> famhist: </b> family history of heart disease (Present, Absent)
+  <li><b> typea: </b> type-A behavior
+  <li><b> obesity </b>
+  <li><b> alcohol: </b> current alcohol consumption
+  <li><b> age: </b> age at onset
+  <li><b> chd: </b> response, coronary heart disease
+</ul>
 
-sbp		systolic blood pressure
-tobacco		cumulative tobacco (kg)
-ldl		low densiity lipoprotein cholesterol
-adiposity
-famhist		family history of heart disease (Present, Absent)
-typea		type-A behavior
-obesity
-alcohol		current alcohol consumption
-age		age at onset
-chd		response, coronary heart disease
-
-To read into R:
-read.table("http://www-stat.stanford.edu/~tibs/ElemStatLearn/datasets/SAheart.data",
-	sep=",",head=T,row.names=1)
+To read: https://hastie.su.domains/ElemStatLearn/datasets/SAheart.data
 
 Lastly, we have investigated patient readings _grouping_ and _anomaly detection_ using Unsupervised Learning methods of __density estimation__ and __clustering__, together with finding frequently-occurring disease-confident patterns from patients' data using __association mining__:
 

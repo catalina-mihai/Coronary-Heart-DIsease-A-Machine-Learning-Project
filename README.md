@@ -1,5 +1,5 @@
 ## Coronary heart disease prognosis and diagnosis using Machine Learning techniques: Feature Extraction, Supervised and Unsupervised Learning
-### _By Catalina Mihai and Thomas Halkier Nicolajsen_
+### _By Oana Catalina Mihai and Thomas Halkier Nicolajsen_
 ---
 A retrospective sample of males in a heart-disease high-risk region
 of the Western Cape, South Africa. There are roughly two controls per

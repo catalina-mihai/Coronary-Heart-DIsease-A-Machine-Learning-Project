@@ -33,15 +33,15 @@ For this project, we have decided to focus on detecting the presence of _coronar
 
 Firstly, we have analysed our dataset using various _**data visualization and feature extraction**_ methods, among which the most beneficial for our project was __PCA__: 
 
-* **_[Project 1: Heart Disease - Data feature extraction and visualisations](https://github.com/catalina-mihai)_**
+* **_[Project 1: Heart Disease - Data feature extraction and visualisations]_**
 
 Afterwards, we have performed and evaluated the performance and characteristics of various types of Supervised Learning models upon the Heart Disease data, using __Neural Networks__, __Decision Trees__, __Logistic Regressions__ and baselines for model comparison:
 
-* **_[Project 2: Heart Disease - Supervised Machine Learning](https://github.com/catalina-mihai)_**
+* **_[Project 2: Heart Disease - Supervised Machine Learning]_**
 
 Lastly, we have investigated patient readings _grouping_ and _anomaly detection_ using Unsupervised Learning methods of __density estimation__ and __clustering__, together with finding frequently-occurring disease-confident patterns from patients' data using __association mining__:
 
-* **_[Project 3: Heart Disease - Unsupervised Machine Learning](https://github.com/seby-sbirna/DTU-Introduction-to-Machine-Learning-and-Data-Mining-Capstone-Project/tree/master/Project%203%20-%20UCL%20Heart%20Disease%20-%20Unsupervised%20Machine%20Learning)_**
+* **_[Project 3: Heart Disease - Unsupervised Machine Learning]_**
 ---
 
 
